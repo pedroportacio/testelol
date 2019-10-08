@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="logo-lol.png" />
         <p>
-          Jaja ta pronta<code> essa merda </code> vou subir pro git.
+          Se prepaaraar<code> CHUPA </code> e eu ja consegui subir pro GIT.
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Quero saber minhas Estatisticas
         </a>
       </header>
     </div>
